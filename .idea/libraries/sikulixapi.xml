@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="sikulixapi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../SELENIUM/files/sikuli newVs/sikulixapi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SELENIUM/files/sikuli newVs/sikulixsetup-1.1.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

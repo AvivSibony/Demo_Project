@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="batik-all-1.13">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../SELENIUM/files/poi5/batik-all-1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SELENIUM/files/poi5/bcpkix-jdk15on-1.68.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SELENIUM/files/poi5/bcprov-jdk15on-1.68.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SELENIUM/files/poi5/commons-codec-1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SELENIUM/files/poi5/commons-collections4-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SELENIUM/files/poi5/commons-compress-1.20.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SELENIUM/files/poi5/commons-math3-3.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SELENIUM/files/poi5/curvesapi-1.06.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SELENIUM/files/poi5/fontbox-2.0.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SELENIUM/files/poi5/graphics2d-0.30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SELENIUM/files/poi5/pdfbox-2.0.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SELENIUM/files/poi5/poi-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SELENIUM/files/poi5/poi-examples-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SELENIUM/files/poi5/poi-excelant-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SELENIUM/files/poi5/poi-integration-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SELENIUM/files/poi5/poi-ooxml-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SELENIUM/files/poi5/poi-ooxml-full-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SELENIUM/files/poi5/poi-ooxml-lite-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SELENIUM/files/poi5/poi-scratchpad-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SELENIUM/files/poi5/SparseBitSet-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SELENIUM/files/poi5/xml-apis-ext-1.3.04.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SELENIUM/files/poi5/xmlbeans-4.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SELENIUM/files/poi5/xmlgraphics-commons-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SELENIUM/files/poi5/xmlsec-2.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

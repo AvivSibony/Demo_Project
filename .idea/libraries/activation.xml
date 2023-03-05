@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="activation">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../SELENIUM/files/mail/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SELENIUM/files/mail/dsn.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SELENIUM/files/mail/imap.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SELENIUM/files/mail/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SELENIUM/files/mail/mailapi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SELENIUM/files/mail/pop3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SELENIUM/files/mail/smtp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
